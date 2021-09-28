@@ -1,0 +1,396 @@
+
+/* Class = "UILabel"; text = "Voici quelques challenges que vous pouvez aimer. Voici quelques challenges que vous pouvez aimer."; ObjectID = "0Jp-Iv-Wy2"; */
+"0Jp-Iv-Wy2.text" = "Voici quelques challenges que vous pouvez aimer. Voici quelques challenges que vous pouvez aimer.";
+
+/* Class = "UILabel"; text = "JOUER SANS"; ObjectID = "0ds-W3-IAj"; */
+"0ds-W3-IAj.text" = "PLAY WITHOUT";
+
+/* Class = "UILabel"; text = "Chargement..."; ObjectID = "17M-XQ-CnV"; */
+"17M-XQ-CnV.text" = "Loading...";
+
+/* Class = "UISegmentedControl"; 2Y8-zc-q5e.segmentTitles[0] = "Jouer avec ses playlists"; ObjectID = "2Y8-zc-q5e"; */
+"2Y8-zc-q5e.segmentTitles[0]" = "Play with his playlists";
+
+/* Class = "UISegmentedControl"; 2Y8-zc-q5e.segmentTitles[1] = "Réalisations"; ObjectID = "2Y8-zc-q5e"; */
+"2Y8-zc-q5e.segmentTitles[1]" = "Achievements";
+
+/* Class = "UIButton"; normalTitle = "  74% avec toi"; ObjectID = "2hg-o2-d05"; */
+"2hg-o2-d05.normalTitle" = "  74% avec toi";
+
+/* Class = "UILabel"; text = "Chargement..."; ObjectID = "2kZ-3y-7Nw"; */
+"2kZ-3y-7Nw.text" = "Loading...";
+
+/* Class = "UILabel"; text = "  30 POINTS  XP  "; ObjectID = "2wN-Bj-0Ph"; */
+"2wN-Bj-0Ph.text" = "  30 POINTS  XP  ";
+
+/* Class = "UILabel"; text = "Joué 39 fois, réussi 12 fois"; ObjectID = "33G-Gn-zq2"; */
+"33G-Gn-zq2.text" = "Joué 39 fois, réussi 12 fois";
+
+/* Class = "UILabel"; text = "Contient 15 titres"; ObjectID = "3Dl-KK-M8O"; */
+"3Dl-KK-M8O.text" = "Contient 15 titres";
+
+/* Class = "UILabel"; text = "Tu as tout déchiré! Voici ton score sur le défi de Ibrahima:"; ObjectID = "3KO-ah-iGY"; */
+"3KO-ah-iGY.text" = "Tu as tout déchiré! Voici ton score sur le défi de Ibrahima:";
+
+/* Class = "UIButton"; normalTitle = " FERMER"; ObjectID = "3tO-1d-pS0"; */
+"3tO-1d-pS0.normalTitle" = " CLOSE";
+
+/* Class = "UIButton"; normalTitle = "FERMER"; ObjectID = "4YY-Xs-tJd"; */
+"4YY-Xs-tJd.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "  ••• pts  "; ObjectID = "4eK-JD-T5D"; */
+"4eK-JD-T5D.text" = "  ••• pts  ";
+
+/* Class = "UILabel"; text = "• sur •"; ObjectID = "6Qe-u9-f0F"; */
+"6Qe-u9-f0F.text" = "• sur •";
+
+/* Class = "UIButton"; normalTitle = "  Voir le profil"; ObjectID = "6cK-ax-5KE"; */
+"6cK-ax-5KE.normalTitle" = "  See profile";
+
+/* Class = "UIButton"; normalTitle = "  DÉFIER"; ObjectID = "6r9-rY-qDb"; */
+"6r9-rY-qDb.normalTitle" = "  CHALLENGE";
+
+/* Class = "UITextField"; placeholder = "Rechercher"; ObjectID = "71v-zV-Azu"; */
+"71v-zV-Azu.placeholder" = "Search";
+
+/* Class = "UITextField"; text = "Rechercher"; ObjectID = "71v-zV-Azu"; */
+"71v-zV-Azu.text" = "Search";
+
+/* Class = "UILabel"; text = "Made with ❤️ in Senegal 🇸🇳"; ObjectID = "79C-KQ-fyB"; */
+"79C-KQ-fyB.text" = "Made with ❤️ in Senegal 🇸🇳";
+
+/* Class = "UILabel"; text = "Joué 39 fois, réussi 12 fois"; ObjectID = "7Bj-5D-tpx"; */
+"7Bj-5D-tpx.text" = "Joué 39 fois, réussi 12 fois";
+
+/* Class = "UILabel"; text = "LEADERBOARD 🔥"; ObjectID = "8hk-kf-ypc"; */
+"8hk-kf-ypc.text" = "LEADERBOARD 🔥";
+
+/* Class = "UILabel"; text = "  Tasha Diallo  "; ObjectID = "9QZ-ZV-aV4"; */
+"9QZ-ZV-aV4.text" = "  Tasha Diallo  ";
+
+/* Class = "UIButton"; normalTitle = "  JOUER SANS COMPTE"; ObjectID = "AQA-Ix-NpR"; */
+"AQA-Ix-NpR.normalTitle" = "  PLAY WITHOUT ACCOUNT";
+
+/* Class = "UIButton"; normalTitle = "  ••• morceaux   •"; ObjectID = "Ab0-5M-nQD"; */
+"Ab0-5M-nQD.normalTitle" = "  ••• morceaux   •";
+
+/* Class = "UILabel"; text = "  30 POINTS  XP  "; ObjectID = "Aka-ej-wAR"; */
+"Aka-ej-wAR.text" = "  30 POINTS  XP  ";
+
+/* Class = "UILabel"; text = "Votre liste d'amis"; ObjectID = "BgK-oO-U0X"; */
+"BgK-oO-U0X.text" = "Votre liste d'amis";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "CJB-PR-QU7"; */
+"CJB-PR-QU7.placeholder" = "Password";
+
+/* Class = "UITextField"; text = "••••••"; ObjectID = "CJB-PR-QU7"; */
+"CJB-PR-QU7.text" = "••••••";
+
+/* Class = "UINavigationItem"; title = "Recherche"; ObjectID = "Cdy-AJ-xPd"; */
+"Cdy-AJ-xPd.title" = "Search";
+
+/* Class = "UINavigationItem"; title = "Recherche"; ObjectID = "EKX-5O-X7p"; */
+"EKX-5O-X7p.title" = "Search";
+
+/* Class = "UILabel"; text = "Chargement..."; ObjectID = "EOf-AE-63a"; */
+"EOf-AE-63a.text" = "Loading...";
+
+/* Class = "UILabel"; text = "Hits de soirée"; ObjectID = "F5C-hU-f00"; */
+"F5C-hU-f00.text" = "Hits de soirée";
+
+/* Class = "UILabel"; text = "Par Djibril Coly, 15 titres."; ObjectID = "FeQ-js-2gH"; */
+"FeQ-js-2gH.text" = "Par Djibril Coly, 15 titres.";
+
+/* Class = "UILabel"; text = "Découvrir"; ObjectID = "Fgk-h4-Q2Z"; */
+"Fgk-h4-Q2Z.text" = "Discover";
+
+/* Class = "UIButton"; normalTitle = "J'ACCEPTE LES CONDITIONS"; ObjectID = "GFF-Rb-boz"; */
+"GFF-Rb-boz.normalTitle" = "I ACCEPT THE CONDITIONS";
+
+/* Class = "UILabel"; text = "  Score obtenu: 12/15  "; ObjectID = "Ga1-ZM-oW7"; */
+"Ga1-ZM-oW7.text" = "  Score obtenu: 12/15  ";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "HOw-lk-CGW"; */
+"HOw-lk-CGW.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Mets un casque ou des écouteurs pour une meilleure expérience."; ObjectID = "Hgj-AH-TCm"; */
+"Hgj-AH-TCm.text" = "Put on headphones or earphones for a better experience.";
+
+/* Class = "UIButton"; normalTitle = "   RETIRER   "; ObjectID = "I5J-hp-1fV"; */
+"I5J-hp-1fV.normalTitle" = "   REMOVE   ";
+
+/* Class = "UILabel"; text = "Ibrahima Ndiaye"; ObjectID = "IQc-VZ-cHS"; */
+"IQc-VZ-cHS.text" = "Ibrahima Ndiaye";
+
+/* Class = "UILabel"; text = "Confession"; ObjectID = "Ilh-bg-1dz"; */
+"Ilh-bg-1dz.text" = "Confession";
+
+/* Class = "UILabel"; text = "vous suit également"; ObjectID = "Io5-m9-zxi"; */
+"Io5-m9-zxi.text" = "added you back";
+
+/* Class = "UILabel"; text = "Djibril Bathily Coly"; ObjectID = "LD6-LR-ULf"; */
+"LD6-LR-ULf.text" = "Djibril Bathily Coly";
+
+/* Class = "UILabel"; text = "14 sur 15"; ObjectID = "LiV-wR-pOv"; */
+"LiV-wR-pOv.text" = "14 sur 15";
+
+/* Class = "UILabel"; text = "30 publications"; ObjectID = "MCc-LB-rIb"; */
+"MCc-LB-rIb.text" = "30 publications";
+
+/* Class = "UIButton"; normalTitle = "  Partager avec mes amis"; ObjectID = "MJc-SV-Sp7"; */
+"MJc-SV-Sp7.normalTitle" = "  Share with friends";
+
+/* Class = "UILabel"; text = "Hits de soirée"; ObjectID = "MQ4-OS-svy"; */
+"MQ4-OS-svy.text" = "Hits de soirée";
+
+/* Class = "UIButton"; normalTitle = "DÉCONNEXION"; ObjectID = "N3V-Ox-4T1"; */
+"N3V-Ox-4T1.normalTitle" = "LOGOUT";
+
+/* Class = "UIButton"; normalTitle = "  LANCER LA PARTIE"; ObjectID = "N6g-nn-PfC"; */
+"N6g-nn-PfC.normalTitle" = "  START THE GAME";
+
+/* Class = "UIButton"; normalTitle = " JOUER"; ObjectID = "N88-ae-ydD"; */
+"N88-ae-ydD.normalTitle" = " PLAY";
+
+/* Class = "UIButton"; normalTitle = "JOUER SANS COMPTE"; ObjectID = "N8S-08-Bb2"; */
+"N8S-08-Bb2.normalTitle" = "PLAY WITHOUT ACCOUNT";
+
+/* Class = "UILabel"; text = "Vous ne serez pas notifié(e) lors des événements importants."; ObjectID = "NKk-wQ-jQd"; */
+"NKk-wQ-jQd.text" = "You will not be notified during important events.";
+
+/* Class = "UILabel"; text = "Il y a 2 minutes"; ObjectID = "NPu-QX-Z6c"; */
+"NPu-QX-Z6c.text" = "Il y a 2 minutes";
+
+/* Class = "UILabel"; text = "#LGQM"; ObjectID = "NRt-Qn-lfX"; */
+"NRt-Qn-lfX.text" = "#LGQM";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Nbv-WY-kJC"; */
+"Nbv-WY-kJC.text" = "1";
+
+/* Class = "UILabel"; text = "Quiz entre amis dans #LeGrandQuizMusical"; ObjectID = "O5y-LW-s2Z"; */
+"O5y-LW-s2Z.text" = "Quiz with friends in #LeGrandQuizMusical";
+
+/* Class = "UILabel"; text = "Mets tes amis au défi de trouver les titres de tes playlists sur Flumeo. Let the game begin!"; ObjectID = "OJp-LA-lyl"; */
+"OJp-LA-lyl.text" = "Challenge your friends to find titles in your playlists on Flumeo. Let the game begin!";
+
+/* Class = "UIButton"; normalTitle = "J'AI DÉJÀ UN COMPTE FLUMEO"; ObjectID = "OhH-xE-Dbh"; */
+"OhH-xE-Dbh.normalTitle" = "I ALREADY HAVE A FLUMEO ACCOUNT";
+
+/* Class = "UILabel"; text = "Saisissez votre mot de passe et votre identifiant Flumeo."; ObjectID = "QBG-5b-LyP"; */
+"QBG-5b-LyP.text" = "Enter your password and your Flumeo ID.";
+
+/* Class = "UIButton"; normalTitle = "  ESSAYER"; ObjectID = "QBy-PV-teT"; */
+"QBy-PV-teT.normalTitle" = "  TRY";
+
+/* Class = "UIButton"; normalTitle = "  PARTAGER"; ObjectID = "QOW-Ak-VtN"; */
+"QOW-Ak-VtN.normalTitle" = "  SHARE";
+
+/* Class = "UIButton"; normalTitle = "TERMINER"; ObjectID = "QuR-Tn-Jdv"; */
+"QuR-Tn-Jdv.normalTitle" = "FINISH";
+
+/* Class = "UILabel"; text = "d'affichage"; ObjectID = "RKw-ed-NFL"; */
+"RKw-ed-NFL.text" = "Theme";
+
+/* Class = "UILabel"; text = "Dernière mise à jour"; ObjectID = "Rco-MB-djh"; */
+"Rco-MB-djh.text" = "Dernière mise à jour";
+
+/* Class = "UILabel"; text = "With ❤️ From Senegal 🇸🇳"; ObjectID = "S5O-kd-JRB"; */
+"S5O-kd-JRB.text" = "With ❤️ From Senegal 🇸🇳";
+
+/* Class = "UILabel"; text = "  Bonnes réponses  "; ObjectID = "SbB-ux-cws"; */
+"SbB-ux-cws.text" = "  Correct answers  ";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "TIK-Sk-4Tj"; */
+"TIK-Sk-4Tj.text" = "3";
+
+/* Class = "UILabel"; text = "Défiez vos amis et suivez leur évolution"; ObjectID = "TpX-SX-zok"; */
+"TpX-SX-zok.text" = "Challenge your friends and follow their progress";
+
+/* Class = "UILabel"; text = "Choisis un thème"; ObjectID = "UK9-UR-E8D"; */
+"UK9-UR-E8D.text" = "Choose a";
+
+/* Class = "UIButton"; normalTitle = "DÉFIER MES AMIS"; ObjectID = "VNg-9O-hH1"; */
+"VNg-9O-hH1.normalTitle" = "CHALLENGE FRIENDS";
+
+/* Class = "UIButton"; normalTitle = " 13 sur 15"; ObjectID = "Vdj-sB-uN6"; */
+"Vdj-sB-uN6.normalTitle" = " 13 sur 15";
+
+/* Class = "UILabel"; text = "JOUER AVEC SES PLAYLISTS"; ObjectID = "Vqr-8W-5sa"; */
+"Vqr-8W-5sa.text" = "PLAY WITH ITS PLAYLISTS";
+
+/* Class = "UILabel"; text = "Vous n'accéderez pas à tous les challenges disponibles."; ObjectID = "WQd-2I-Oh6"; */
+"WQd-2I-Oh6.text" = "You will not have access to all the available challenges.";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "WVf-U9-NGy"; */
+"WVf-U9-NGy.text" = "2";
+
+/* Class = "UILabel"; text = "Prenez en photo votre carte d'identité nationale ou votre passport."; ObjectID = "WYj-3O-mYb"; */
+"WYj-3O-mYb.text" = "Prenez en photo votre carte d'identité nationale ou votre passport.";
+
+/* Class = "UILabel"; text = "Djibril Bathily Coly"; ObjectID = "XOa-0i-ogL"; */
+"XOa-0i-ogL.text" = "Djibril Bathily Coly";
+
+/* Class = "UILabel"; text = "Chargement..."; ObjectID = "Z4f-FK-mDd"; */
+"Z4f-FK-mDd.text" = "Loading...";
+
+/* Class = "UILabel"; text = "Votre timeline"; ObjectID = "aJK-2k-Qqp"; */
+"aJK-2k-Qqp.text" = "Your timeline";
+
+/* Class = "UILabel"; text = "Votre progression et vos points XP ne seront pas sauvegardés."; ObjectID = "b48-uw-Hwc"; */
+"b48-uw-Hwc.text" = "Your progress and XP points will not be saved.";
+
+/* Class = "UIButton"; normalTitle = "  30 réalisations"; ObjectID = "b71-C1-CON"; */
+"b71-C1-CON.normalTitle" = "  30 réalisations";
+
+/* Class = "UIButton"; normalTitle = "  Partager"; ObjectID = "bJj-Ck-DqV"; */
+"bJj-Ck-DqV.normalTitle" = "  Share";
+
+/* Class = "UILabel"; text = "Par Djibril Coly, 15 titres."; ObjectID = "bff-oe-EPu"; */
+"bff-oe-EPu.text" = "Par Djibril Coly, 15 titres.";
+
+/* Class = "UILabel"; text = "Contient 15 titres"; ObjectID = "bnp-WU-ahI"; */
+"bnp-WU-ahI.text" = "Contient 15 titres";
+
+/* Class = "UILabel"; text = "Recherche"; ObjectID = "cj3-VZ-MXV"; */
+"cj3-VZ-MXV.text" = "Search";
+
+/* Class = "UILabel"; text = "Timeline"; ObjectID = "d5x-Cc-hqL"; */
+"d5x-Cc-hqL.text" = "Timeline";
+
+/* Class = "UILabel"; text = "  0 points gagnés  "; ObjectID = "dB7-jx-bVa"; */
+"dB7-jx-bVa.text" = "  0 XP Points  ";
+
+/* Class = "UILabel"; text = "Chargement..."; ObjectID = "dQf-3p-xlN"; */
+"dQf-3p-xlN.text" = "Loading...";
+
+/* Class = "UILabel"; text = "COMPTE FLUMEO"; ObjectID = "dkv-jp-9GL"; */
+"dkv-jp-9GL.text" = "FLUMEO ACCOUNT";
+
+/* Class = "UILabel"; text = "VOICI LES ÉLITES"; ObjectID = "eJX-C7-VZX"; */
+"eJX-C7-VZX.text" = "HERE ARE THE ELITES";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "eTq-tv-4qB"; */
+"eTq-tv-4qB.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "  15 morceaux favoris sur Flumeo"; ObjectID = "er4-lg-nNn"; */
+"er4-lg-nNn.normalTitle" = "  15 morceaux favoris sur Flumeo";
+
+/* Class = "UINavigationItem"; title = "Recherche"; ObjectID = "f3k-7A-wty"; */
+"f3k-7A-wty.title" = "Search";
+
+/* Class = "UILabel"; text = "Alerte"; ObjectID = "f9y-YC-iba"; */
+"f9y-YC-iba.text" = "Alerte";
+
+/* Class = "UIButton"; normalTitle = "Joué 30 fois par d'autres"; ObjectID = "fA0-ad-nU6"; */
+"fA0-ad-nU6.normalTitle" = "Joué 30 fois par d'autres";
+
+/* Class = "UIButton"; normalTitle = "TERMINER"; ObjectID = "fOv-fz-U6M"; */
+"fOv-fz-U6M.normalTitle" = "FINISH";
+
+/* Class = "UIViewController"; title = "Friends"; ObjectID = "g68-al-own"; */
+"g68-al-own.title" = "Friends";
+
+/* Class = "UIButton"; normalTitle = "SE CONNECTER"; ObjectID = "gt3-8U-ETS"; */
+"gt3-8U-ETS.normalTitle" = "LOG IN";
+
+/* Class = "UILabel"; text = "Hits de soirée"; ObjectID = "hJ7-JS-UXD"; */
+"hJ7-JS-UXD.text" = "Hits de soirée";
+
+/* Class = "UILabel"; text = "Par Djibril Coly, 15 titres."; ObjectID = "hZj-Df-iFl"; */
+"hZj-Df-iFl.text" = "Par Djibril Coly, 15 titres.";
+
+/* Class = "UILabel"; text = "Chargement..."; ObjectID = "ig7-hM-UPL"; */
+"ig7-hM-UPL.text" = "Loading...";
+
+/* Class = "UILabel"; text = "Vous ne pourrez pas défier vos amis directement."; ObjectID = "jB5-bz-UXS"; */
+"jB5-bz-UXS.text" = "You will not be able to challenge your friends directly.";
+
+/* Class = "UILabel"; text = "#LGQM"; ObjectID = "lT9-Ev-ye4"; */
+"lT9-Ev-ye4.text" = "#LGQM";
+
+/* Class = "UIButton"; normalTitle = "  • pts XP"; ObjectID = "ldo-Hu-vhB"; */
+"ldo-Hu-vhB.normalTitle" = "  • pts XP";
+
+/* Class = "UILabel"; text = "Hits de soirée"; ObjectID = "lv4-RY-YzA"; */
+"lv4-RY-YzA.text" = "Hits de soirée";
+
+/* Class = "UILabel"; text = "Djibril Bathily Coly"; ObjectID = "oBm-ih-zsp"; */
+"oBm-ih-zsp.text" = "Djibril Bathily Coly";
+
+/* Class = "UILabel"; text = "Challenges pour vous"; ObjectID = "oF7-Sb-8vc"; */
+"oF7-Sb-8vc.text" = "Challenges pour vous";
+
+/* Class = "UILabel"; text = "Chargement..."; ObjectID = "okR-ad-wY6"; */
+"okR-ad-wY6.text" = "Loading...";
+
+/* Class = "UIButton"; normalTitle = " 305 pts XP"; ObjectID = "oyp-LT-WeI"; */
+"oyp-LT-WeI.normalTitle" = " 305 pts XP";
+
+/* Class = "UILabel"; text = "Djibril Bathily Coly"; ObjectID = "peJ-ls-dBf"; */
+"peJ-ls-dBf.text" = "Djibril Bathily Coly";
+
+/* Class = "UIButton"; normalTitle = " FERMER"; ObjectID = "pxh-be-hgc"; */
+"pxh-be-hgc.normalTitle" = " CLOSE";
+
+/* Class = "UISegmentedControl"; qA0-Oy-CbL.segmentTitles[0] = "Pochette"; ObjectID = "qA0-Oy-CbL"; */
+"qA0-Oy-CbL.segmentTitles[0]" = "Artwork";
+
+/* Class = "UISegmentedControl"; qA0-Oy-CbL.segmentTitles[1] = "Paroles"; ObjectID = "qA0-Oy-CbL"; */
+"qA0-Oy-CbL.segmentTitles[1]" = "Lyrics";
+
+/* Class = "UITextField"; placeholder = "Rechercher"; ObjectID = "qjl-7b-TWm"; */
+"qjl-7b-TWm.placeholder" = "Search";
+
+/* Class = "UITextField"; text = "Rechercher"; ObjectID = "qjl-7b-TWm"; */
+"qjl-7b-TWm.text" = "Search";
+
+/* Class = "UILabel"; text = "Djibril Bathily Coly"; ObjectID = "rLP-Q4-UMN"; */
+"rLP-Q4-UMN.text" = "Djibril Bathily Coly";
+
+/* Class = "UIButton"; normalTitle = "FERMER"; ObjectID = "rzz-9z-xru"; */
+"rzz-9z-xru.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "Hits de soirée"; ObjectID = "s8w-U2-Vz7"; */
+"s8w-U2-Vz7.text" = "Hits de soirée";
+
+/* Class = "UILabel"; text = "Connexion"; ObjectID = "sZh-cS-DXa"; */
+"sZh-cS-DXa.text" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "  CRÉER UN COMPTE FLUMEO (GRATUIT)"; ObjectID = "uVl-Rx-2fw"; */
+"uVl-Rx-2fw.normalTitle" = "  CREATE A FLUMEO ACCOUNT (FREE)";
+
+/* Class = "UIButton"; normalTitle = "  •••% de réussite"; ObjectID = "v3J-qc-deM"; */
+"v3J-qc-deM.normalTitle" = "  •••% de réussite";
+
+/* Class = "UILabel"; text = "C'est ta première fois sur"; ObjectID = "v7y-Et-cnC"; */
+"v7y-Et-cnC.text" = "It's your first time on";
+
+/* Class = "UILabel"; text = "Rookie"; ObjectID = "vuq-SL-ndp"; */
+"vuq-SL-ndp.text" = "Rookie";
+
+/* Class = "UITextField"; placeholder = "Adresse e-mail"; ObjectID = "wAB-Pe-f35"; */
+"wAB-Pe-f35.placeholder" = "Email address";
+
+/* Class = "UITextField"; text = "Adresse e-mail"; ObjectID = "wAB-Pe-f35"; */
+"wAB-Pe-f35.text" = "Email address";
+
+/* Class = "UIButton"; normalTitle = "CONTINUER"; ObjectID = "wBV-Ls-Hm2"; */
+"wBV-Ls-Hm2.normalTitle" = "CONTINUE";
+
+/* Class = "UIButton"; normalTitle = "  QUITTER"; ObjectID = "wTL-Cq-hKi"; */
+"wTL-Cq-hKi.normalTitle" = "  QUIT";
+
+/* Class = "UIViewController"; title = "Timeline"; ObjectID = "yMg-fp-iZm"; */
+"yMg-fp-iZm.title" = "Timeline";
+
+/* Class = "UILabel"; text = "Mes amis"; ObjectID = "yQ4-Ea-Qbl"; */
+"yQ4-Ea-Qbl.text" = "My friends";
+
+/* Class = "UILabel"; text = "Ibrahima Ndiaye"; ObjectID = "zCc-cM-LcN"; */
+"zCc-cM-LcN.text" = "Ibrahima Ndiaye";
+
+/* Class = "UILabel"; text = "DEVANT TOI"; ObjectID = "zIF-LM-McW"; */
+"zIF-LM-McW.text" = "DEVANT TOI";
+
+/* Class = "UILabel"; text = "Bienvenue sur"; ObjectID = "zPC-OU-gu3"; */
+"zPC-OU-gu3.text" = "Welcome to";

@@ -1,0 +1,114 @@
+
+//  Localizable.strings
+//  The Grand Musical Quiz
+//
+//  Created by Djibril Coly on 5/9/20.
+//  Copyright © 2020 NewAfricaTechnology. All rights reserved.
+
+
+// Welcome
+"problemTitle" = "There is a problem...";
+"checkAccount" = "Check the accessibility of your account directly from Flumeo.";
+
+
+// Search
+"tooFewTracks" = "Too few titles";
+"atLeastFourTracks" = "A collection must contain at least 4 songs for you to play with it.";
+"search" = "Search";
+"contains" = "Contains";
+"tracks" = "tracks";
+
+
+// Friends
+"remove" = "REMOVE";
+"add" = "ADD";
+"connectPlease" = "Connect!";
+"connectDesc" = "Log in to add and challenge your friends.";
+"pending" = "IN PROGRESS";
+
+
+// Timeline
+"lastUpdate" = "Last update:";
+"connectToTrackFriends" = "Log in to see what your friends are up to.";
+
+
+// Login Flow
+"passwordRequired" = "Password required";
+"passwordRequiredDesc" = "You must enter your password to log in.";
+"invalidEmail" = "Invalid email address";
+"invalidEmailDesc" = "Check the format of the e-mail address, it seems to be incorrect.";
+"loginIn" = "LOGIN YOU IN...";
+"noAccount" = "No account found";
+"noAccountDesc" = "These identifiers do not correspond to any active account.";
+"checkAccount" = "Check the accessibility of your account directly from Flumeo.";
+"notLoggedIn" = "Not logged in";
+"restrictedAccess" = "Restricted access";
+
+
+// Welcome
+"welcomeVideo" = "welcome_guide";
+"noTheme" = "No theme selected";
+"noThemeDesc" = "Choose a theme for your home screen. You can change it later.";
+"animatedTheme" = "This theme is animated";
+"animatedThemeDesc" = "Your autonomy will decrease faster during long games.";
+
+
+// Home
+"xpPoints" = "XP POINTS";
+"publicPlaylist" = "PUBLIC PLAYLIST";
+"publicPlaylists" = "PUBLIC PLAYLISTS";
+"noFlumeoAccount" = "No Flumeo account associated";
+"logIn" = "Log in";
+"adReward" = "Advertising reward";
+"youReceived" = "You have received";
+"freeAccessLimits" = "You are in free access mode and therefore do not have a player account.";
+"accountNeededForChallenges" = "You need an account to challenge your friends on your playlists.";
+"noChallengeableList" = "No playable playlist";
+"challengeableListsRequired" = "To challenge your friends, you need a public playlist of at least 10 songs on Flumeo.";
+"shareMyProfile" = "Share my profile";
+"publishOn" = "Publish on";
+"saveInPictureRoll" = "Save to filmstrip";
+"shareLink" = "Share link";
+"linkCopied" = "🎉 Link copied!";
+"myLinkUsage" = "Paste the link on your social pages or on your story to invite your friends to play with your playlists.";
+"cancel" = "Cancel";
+
+
+// GamePlay
+"linkToProfileCopied" = "🎉 Link to this copied profile!";
+"linkToProfileUsage" = "Paste the link to share this game.";
+"matching" = "matching";
+"xp" = "XP pts";
+"syncing" = "Synchronization in progress...";
+"syncingPending" = "Try again in 10 seconds, while we save your progress.";
+"gameLinkCopied" = "🎉 Sharing link copied!";
+"gameLinkUsage" = "Paste this link to share this game with your friends.";
+"outOf" = "out of";
+"by" = "By";
+"badScore" = "You will do better next time, we believe 👍🏽!";
+"lowScore" = "It was not far, really not far 🤷🏾‍♂️!";
+"mediumScore" = "👏🏽 Not bad at all. Next step: a flawless one.";
+"highScore" = "🎉 Fantastic! You've torn everything apart. Share your score and get jealous.";
+
+
+// Player
+"challengeable" = "Playlists";
+"onYou" = "on you";
+"games" = "games";
+"lastAchievements" = "LATEST ACHIEVEMENTS";
+"challengeablePlaylists" = "PLAYLISTS YOU CAN CHALLENGE";
+"logOut" = "LOGOUT";
+"gamerLinkCopied" = "🎉 Link to this copied profile!";
+"gamerLinkUsage" = "Paste the link to share this player profile.";
+
+
+// Screenshot
+"captureSaved" = "Capture saved";
+"captureSavedDesc" = "The capture has been saved to your photos.";
+
+
+// License
+"waitForEula" = "Wait for the EULA to load";
+"waitForEulaDesc" = "Accepting the terms of use is an important step.";
+"loadingEula" = "Retrieving terms of use...";
+

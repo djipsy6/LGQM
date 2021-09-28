@@ -7,6 +7,9 @@
 //
 
 import UIKit
+import GoogleMobileAds
+
+var launchToDos : [String] = []
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
@@ -18,8 +21,68 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
         guard let _ = (scene as? UIWindowScene) else { return }
+        
+        GADMobileAds.sharedInstance().start(completionHandler: nil)
+
+        UIApplication.shared.applicationIconBadgeNumber = 0
+        addWindowSizeHandlerForMacOS()
+        
+        if let url = connectionOptions.urlContexts.first?.url {
+            let param = url.absoluteString.components(separatedBy: "?").last?.components(separatedBy: "=")
+            let key = param?.first
+            let value = param?.last
+            
+            if key == "gamer" {
+                gamer_id = value ?? ""
+                launchToDos.append("player")
+            } else if key == "id" {
+                game_id = value ?? ""
+                launchToDos.append("preview")
+            }
+        }
     }
 
+
+    func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {
+        if let url = URLContexts.first?.url {
+            handleURLScheme(url: url)
+        }
+    }
+    
+    func addWindowSizeHandlerForMacOS() {
+        if #available(iOS 13.0, *) {
+            UIApplication.shared.connectedScenes.compactMap { $0 as? UIWindowScene }.forEach { windowScene in
+                windowScene.sizeRestrictions?.minimumSize = CGSize(width: 500, height: 900)
+                windowScene.sizeRestrictions?.maximumSize = CGSize(width: 500, height: 1000)
+            }
+        }
+    }
+    
+    func handleURLScheme(url:URL) {
+        
+        let param = url.absoluteString.components(separatedBy: "?").last?.components(separatedBy: "=")
+        let key = param?.first
+        let value = param?.last
+     
+        if key == "gamer" {
+            if let current = UIApplication.topViewController() {
+                    gamer_id = value ?? ""
+                    let storyboard = UIStoryboard(name: "Main", bundle: nil)
+                    let vc = storyboard.instantiateViewController(withIdentifier: "gamer") as! Player
+                    current.present(vc, animated: true, completion: nil)
+                
+            }
+        } else if key == "id" {
+            if let current = UIApplication.topViewController() {
+                game_id = value ?? ""
+                let storyboard = UIStoryboard(name: "Main", bundle: nil)
+                let vc = storyboard.instantiateViewController(withIdentifier: "preview") as! GamePreview
+                current.present(vc, animated: true, completion: nil)
+            }
+        }
+        
+    }
+    
     func sceneDidDisconnect(_ scene: UIScene) {
         // Called as the scene is being released by the system.
         // This occurs shortly after the scene enters the background, or when its session is discarded.

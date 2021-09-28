@@ -1,0 +1,112 @@
+
+//  Localizable.strings
+//  The Grand Musical Quiz
+//
+//  Created by Djibril Coly on 5/9/20.
+//  Copyright © 2020 NewAfricaTechnology. All rights reserved.
+
+// Welcome
+"problemTitle" = "Il y a un problème...";
+"checkAccount" = "Vérifiez l'accessibilité à votre compte directement depuis Flumeo.";
+
+
+// Search
+"tooFewTracks" = "Trop peu de titres";
+"atLeastFourTracks" = "Une collection doit contenir au moins 4 morceaux pour que vous puissiez jouer avec.";
+"search" = "Rechercher";
+"contains" = "Contient";
+"tracks" = "morceaux";
+
+
+// Friends
+"remove" = "RETIRER";
+"add" = "AJOUTER";
+"connectPlease" = "Connectez-vous !";
+"connectDesc" = "Connectez-vous pour ajouter et défier vos amis.";
+"pending" = "EN COURS";
+
+
+// Timeline
+"lastUpdate" = "Dernière mise à jour: ";
+"connectToTrackFriends" = "Connectez-vous pour voir ce que font vos amis.";
+
+
+// Login Flow
+"passwordRequired" = "Mot de passe requis";
+"passwordRequiredDesc" = "Vous devez saisir votre mot de passe pour vous connecter.";
+"invalidEmail" = "Adresse e-mail incorrecte";
+"invalidEmailDesc" = "Vérifiez le format de l'adresse e-mail, il semble incorrect.";
+"loginIn" = "CONNEXION EN COURS...";
+"noAccount" = "Aucun compte trouvé";
+"noAccountDesc" = "Ces identifiants ne correspondent à aucun compte actif.";
+"checkAccount" = "Vérifiez l'accessibilité à votre compte directement depuis Flumeo.";
+"notLoggedIn" = "Non connecté(e)";
+"restrictedAccess" = "Accès restreint";
+
+
+// Welcome
+"welcomeVideo" = "welcome_guide";
+"noTheme" = "Aucun thème sélectionné";
+"noThemeDesc" = "Choisis un thème pour ton écran d'accueil. Tu pourras le changer plus tard.";
+"animatedTheme" = "Ce thème est animé";
+"animatedThemeDesc" = "Votre autonomie baissera plus vite lors de longues parties.";
+
+
+// Home
+"xpPoints" = "POINTS XP";
+"publicPlaylist" = "PLAYLIST PUBLIQUE";
+"publicPlaylists" = "PLAYLISTS PUBLIQUES";
+"noFlumeoAccount" = "Aucun compte Flumeo associé";
+"logIn" = "Se connecter";
+"adReward" = "Récompense publicité";
+"youReceived" = "Vous avez reçu";
+"freeAccessLimits" = "Vous êtes en mode accès libre et ne disposez donc pas d'un compte joueur.";
+"accountNeededForChallenges" = "Vous avez besoin d'un compte pour défier vos amis sur vos playlists.";
+"noChallengeableList" = "Aucune playliste défiable";
+"challengeableListsRequired" = "Pour défier vos amis, il vous faut une playlist publique d'au moins 10 morceaux sur Flumeo.";
+"shareMyProfile" = "Partager mon profil";
+"publishOn" = "Publier sur";
+"saveInPictureRoll" = "Enregistrer dans la pellicule";
+"shareLink" = "Partager le lien";
+"linkCopied" = "🎉 Lien copié!";
+"myLinkUsage" = "Collez le lien sur vos pages sociales ou sur votre story pour inviter vos amis à jouer avec vos playlists.";
+"cancel" = "Annuler";
+
+
+// GamePlay
+"linkToProfileCopied" = "🎉 Lien vers ce profil copié!";
+"linkToProfileUsage" = "Collez le lien pour partager ce jeu.";
+"matching" = "de match";
+"xp" = "pts XP";
+"syncing" = "Synchronisation en cours...";
+"syncingPending" = "Réessaie dans 10 secondes, le temps que nous sauvegardions ta progression.";
+"gameLinkCopied" = "🎉 Lien de partage copié!";
+"gameLinkUsage" = "Collez-ce lien pour partager ce jeu avec vos amis.";
+"outOf" = "sur";
+"by" = "Par";
+"badScore" = "Tu feras mieux la prochaine fois, on y croit 👍🏽!";
+"lowScore" = "C'était pas loin, vraiment pas loin 🤷🏾‍♂️!";
+"mediumScore" = "👏🏽 Pas mal du tout. Prochaine étape: un sans faute.";
+"highScore" = "🎉 Fantastique! Tu as tout déchiré. Partage ton score et fais des jaloux.";
+
+
+// Player
+"challengeables" = "Playlists";
+"onYou" = "sur toi";
+"games" = "parties";
+"lastAchievements" = "DERNIÈRES RÉALISATIONS";
+"challengeablePlaylists" = "PLAYLISTS QUE VOUS POUVEZ DÉFIER";
+"logOut" = "DÉCONNEXION";
+"gamerLinkCopied" = "🎉 Lien vers ce profil copié!";
+"gamerLinkUsage" = "Collez le lien pour partager ce profil joueur.";
+
+
+// Screenshot
+"captureSaved" = "Capture enregistrée";
+"captureSavedDesc" = "La capture a été enregistrée dans vos photos.";
+
+
+// License
+"waitForEula" = "Attendez le chargement des CGU";
+"waitForEulaDesc" = "L'acceptation des conditions d'utilisation est une étape importante.";
+"loadingEula" = "Récupération des conditions d'utilisation...";
